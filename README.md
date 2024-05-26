@@ -1,4 +1,17 @@
-## Hi there 👋
+## Olá, bem vindo
+
+> Sou o Lucas e estou aprendendo a programar recentemente
+
+> Trabalho em uma repartição pública, ainda longe da área de TI
+
+> Estou atualmente estudando sobre lógica de programação, JS e 
+
+> Atualmente tenho 21 anos e estou graduando em direito, planejando fazer engenharia de software logo depois
+
+> Meus pronomes são normalmente ele/dele, porém não me incomodo no uso de outro
+
+> Sou meio aficcionado pelo homem aranha, e o 'tiel' no meu nome veio de castiel do supernatural.. coisa de adolescente...
+
 
 <!--
 **Lucastiell/Lucastiell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
